@@ -1,0 +1,7 @@
+{
+    "expimg": "./expimg/expimg.exe",
+    "tlg2png": "./tlg2png/tlg2png.exe",
+    "psb_decompile": "./FreeMoteToolkit/PsbDecompile.exe",
+    "begin_file": "001・アーサー王ver1.07.ks.scn",
+    "img_format": "<basename>+pimg+<id>.tlg.png"
+}
