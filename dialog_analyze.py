@@ -197,7 +197,7 @@ def extract_dialogs(root_path, out_path):
     pass
 
 if __name__ == "__main__":
-    extract_dialogs("../patch", "../dialog_out")
+    extract_dialogs("../data", "../dialog_out")
     # solve_dialogs("./FreeMoteToolkit/013・欠片集めver1.06.ks.json", "../dialog_out")
     pass
 
